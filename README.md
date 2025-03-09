@@ -17,7 +17,7 @@
 
 - ⚡ Motto **"Better late than never"**
 
-
+<!--- My projects -->
 <h3 align="left"> My projects </h3>
 
 - ✈️ **[Aviation: Collaboration project of Data Analytics with Python at RSB](https://github.com/r41ss4/rennes_da)**
@@ -26,7 +26,7 @@
 - 💄 **[SkinCare: Collaboration project of Image Recognition with openCV at TKU](https://github.com/DoreenHou/SkinCare)**
 - 📰 **[My GitHub pages](https://doreenhou.github.io/Doreen-Website/)**
 
-
+<!--- Connect with me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hou-kuanyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hou-kuanyu" height="30" width="40" /></a>
@@ -34,7 +34,7 @@
 <a href="https://instagram.com/00doreen00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="00doreen00" height="30" width="40" /></a>
 </p>
 
-
+<!--- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -52,7 +52,7 @@
   <a href="https://www.microsoft.com/es-es/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 
-
+<!--- Badges & Certifications -->
 <h2 align="left"> Badges  & Certifications </h2>
 <h3 align="left"> Badges </h3>
 
@@ -72,7 +72,7 @@
   <a href="https://www.linkedin.com/learning/certificates/833cd30013e50e041baeec06b800bbb19b7c10f24552bf2a65472d4d1e49fd96?trk=share_certificate"><img src="images/CertificateOfCompletion_What Is Generative AI-1.png" alt=" What Is Generative AI" height="150"/></a>
   <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_9eqrwRhiyhFht86gG_1739980347747_completion_certificate.pdf"><img src="images/Data Analytics Job Simulation-1.png" alt=" Data Analytics Job Simulation" height="150"/></a>
 
-
+<!--- GitHub Stats -->
 <h2 align="left">My GitHub Stats <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="logo" height="50" width="50" /></h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doreenhou&show_icons=true&locale=en&layout=compact" alt="doreenhou" /></p>
