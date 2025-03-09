@@ -57,10 +57,20 @@
 <h3 align="left"> Badges </h3>
 
 <div align="left">
-  <a href="https://www.credly.com/badges/30d3de23-cc61-47e3-8837-f24ac9fc1a8d/public_url"><img src="images/aws-certified-solutions-architect-associate.png" alt="AWS-SAA" height="200"/></a> 
+  <a href="https://www.credly.com/badges/30d3de23-cc61-47e3-8837-f24ac9fc1a8d/public_url"><img src="images/aws-certified-solutions-architect-associate.png" alt="AWS-SAA" height="150"/></a> 
+  <a href="https://www.credly.com/badges/c2e89e9b-3b62-4bac-86d4-5b502cb103ff/public_url"><img src="images/aws-certified-cloud-practitioner.png" alt="AWS-CCP" height="150"/></a>
+  <a href="https://www.credly.com/badges/e3092961-5aed-4ef7-b82c-c6a6a5ed8777/public_url"><img src="images/aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS-Academy-Cloud-Foundations" height="150"/></a>
+  <a href="https://skillshop.credential.net/386017a1-61a3-412d-880d-95c0384feeef"><img src="images/Google Analytics Certification.png" alt="Google Analytics Certification" height="150"/></a>
 
 <h3 align="left"> Certifications </h3>
-
+  <a href="https://www.credly.com/badges/30d3de23-cc61-47e3-8837-f24ac9fc1a8d/public_url"><img src="images/AWS Certified Solutions Architect - Associate certificate-1.png" alt="AWS-SAA" height="150"/></a>
+  <a href="https://www.credly.com/badges/c2e89e9b-3b62-4bac-86d4-5b502cb103ff/public_url"><img src="images/AWS Certified Cloud Practitioner certificate-1.png" alt="AWS-CCP" height="150"/></a>
+  <a href="https://www.credly.com/badges/e3092961-5aed-4ef7-b82c-c6a6a5ed8777/public_url"><img src="images/AWS_Academy_Graduate-1.png" alt="AWS-Academy-Cloud-Foundations" height="150"/></a>
+  <a href="https://skillshop.credential.net/386017a1-61a3-412d-880d-95c0384feeef"><img src="images/Google Analytics Certification-1.png" alt="Google-GA" height="150"/></a>
+  <a href="https://coursera.org/share/1a0039b76dc19207d43eadce45237346"><img src="images/Google Data Analytics-1.png" alt="Google-Data-Analytics" height="150"/></a>
+  <a href="https://www.linkedin.com/learning/certificates/b78663399ba0435b46a99a8c0cb2ba39b7d1f0c789fc6a49e1540e952ef9082e"><img src="images/CertificateOfCompletion_Time Series Modeling in Excel R and Power BI-1.png" alt=" Time Series Modeling in Excel R and Power BI" height="150"/></a>
+  <a href="https://www.linkedin.com/learning/certificates/833cd30013e50e041baeec06b800bbb19b7c10f24552bf2a65472d4d1e49fd96?trk=share_certificate"><img src="images/CertificateOfCompletion_What Is Generative AI-1.png" alt=" What Is Generative AI" height="150"/></a>
+  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_9eqrwRhiyhFht86gG_1739980347747_completion_certificate.pdf"><img src="images/Data Analytics Job Simulation-1.png" alt=" Data Analytics Job Simulation" height="150"/></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doreenhou&show_icons=true&locale=en&layout=compact" alt="doreenhou" /></p>
 
