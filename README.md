@@ -9,11 +9,11 @@
 
 - 👯 I’m currently collaborating on [Data Science Project](https://github.com/r41ss4/rennes_ds)
 
-- 👨‍💻 All of my projects are available at [https://github.com/DoreenHou](https://github.com/DoreenHou)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/DoreenHou)
 
 - 📫 How to reach me ****[kuan-yu.hou@rennes-sb.com](mailto:kuan-yu.hou@rennes-sb.com)** or **+33 07 68 17 05 92****
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hou-kuanyu/](https://www.linkedin.com/in/hou-kuanyu/)
+- 📄 Know about my experiences on my [Linkedin](https://www.linkedin.com/in/hou-kuanyu/)
 
 - ⚡ Motto **Better late than never**
 
