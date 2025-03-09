@@ -24,7 +24,7 @@
 - 🎥 **[Netflix: Collaboration project of Business Analytic with Python at RSB](https://github.com/r41ss4/rennes_ba)**
 - 📝 **[Visa: Collaboration project of SmartContract with Solidity](https://github.com/DoreenHou/SmartContract_passport)**
 - 💄 **[SkinCare: Collaboration project of Image Recognition with openCV](https://github.com/DoreenHou/SkinCare)**
-- 📰 **[My GitHub pages](https://github.com/DoreenHou/Doreen-Website)**
+- 📰 **[My GitHub pages](https://doreenhou.github.io/Doreen-Website/)**
 
 
 <h3 align="left">Connect with me:</h3>
