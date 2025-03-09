@@ -17,7 +17,6 @@
 
 - ⚡ Motto **"Better late than never"**
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 
 <!--- My projects -->
 <h3 align="left"> My projects </h3>
@@ -35,6 +34,8 @@
 <a href="https://kaggle.com/doreenhou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="doreenhou" height="30" width="40" /></a>
 <a href="https://instagram.com/00doreen00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="00doreen00" height="30" width="40" /></a>
 </p>
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 
 <!--- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
