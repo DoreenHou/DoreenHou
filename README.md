@@ -20,14 +20,15 @@
 
 <h3 align="left"> My projects </h3>
 
+<p
 - ✈️ **[Aviation: Collaboration project of Data Analytics with Python at RSB](https://github.com/r41ss4/rennes_da)**
 - 🎥 **[Netflix: Collaboration project of Business Analytic with Python at RSB](https://github.com/r41ss4/rennes_ba)**
 - 📝 **[Visa: Collaboration project of SmartContract with Solidity](https://github.com/DoreenHou/SmartContract_passport)**
 - 💄 **[SkinCare: Collaboration project of Image Recognition with openCV](https://github.com/DoreenHou/SkinCare)**
 - 📰 **[My GitHub pages](https://doreenhou.github.io/Doreen-Website/)**
+</p>
 
-
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hou-kuanyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hou-kuanyu" height="30" width="40" /></a>
 <a href="https://kaggle.com/doreenhou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="doreenhou" height="30" width="40" /></a>
