@@ -19,14 +19,12 @@
 
 
 <h3 align="left"> My projects </h3>
-
-<p
 - ✈️ **[Aviation: Collaboration project of Data Analytics with Python at RSB](https://github.com/r41ss4/rennes_da)**
 - 🎥 **[Netflix: Collaboration project of Business Analytic with Python at RSB](https://github.com/r41ss4/rennes_ba)**
 - 📝 **[Visa: Collaboration project of SmartContract with Solidity](https://github.com/DoreenHou/SmartContract_passport)**
 - 💄 **[SkinCare: Collaboration project of Image Recognition with openCV](https://github.com/DoreenHou/SkinCare)**
 - 📰 **[My GitHub pages](https://doreenhou.github.io/Doreen-Website/)**
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
