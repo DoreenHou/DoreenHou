@@ -27,7 +27,7 @@
 - 📰 **[My GitHub pages](https://doreenhou.github.io/Doreen-Website/)**
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/hou-kuanyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hou-kuanyu" height="30" width="40" /></a>
 <a href="https://kaggle.com/doreenhou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="doreenhou" height="30" width="40" /></a>
@@ -73,7 +73,7 @@
   <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_9eqrwRhiyhFht86gG_1739980347747_completion_certificate.pdf"><img src="images/Data Analytics Job Simulation-1.png" alt=" Data Analytics Job Simulation" height="150"/></a>
 
 
-<h2 align="left">My GitHub Stats <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="logo" height="50" width="50" /></h2>
+<h2 align="left">My GitHub Stats <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="logo" height="50" width="50" /></h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doreenhou&show_icons=true&locale=en&layout=compact" alt="doreenhou" /></p>
 
