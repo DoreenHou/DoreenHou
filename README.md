@@ -81,5 +81,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doreenhou&" alt="doreenhou" /></p>
 
-<img src="https://raw.githubusercontent.com/DoreenHou/DoreenHou/output/snake.svg" alt="Snake animation" />
+<img src="github-user-contribution.svg" alt="Snake animation" />
 
