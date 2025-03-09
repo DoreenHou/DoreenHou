@@ -57,9 +57,7 @@
 <h3 align="left"> Badges </h3>
 
 <div align="left">
-  <a href="https://www.credly.com/badges/65efd81d-5470-4c2d-9975-bb43cd16b858/public_url"><img src="/images/datadog-fundamental.png" alt="Datadog Fundamentals I" height="200"/></a> 
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="30d3de23-cc61-47e3-8837-f24ac9fc1a8d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</p align="left">
+  <a href="https://www.credly.com/badges/30d3de23-cc61-47e3-8837-f24ac9fc1a8d/public_url"><img src="/images/datadog-fundamental.png" alt="Datadog Fundamentals I" height="200"/></a> 
 
 <h3 align="left"> Certifications </h3>
 
