@@ -28,7 +28,7 @@
 - 📰 **[My GitHub pages](https://doreenhou.github.io/Doreen-Website/)**
 
 <!--- <img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400"> -->
-<img align="right" src="images/octocat-1741528633304.png" width="400">
+<img align="right" src="images/octocat-1741528633304.png" width="250">
 
 <!--- Connect with me -->
 <h3 align="left">Connect with me:</h3>
