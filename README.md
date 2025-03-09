@@ -2,9 +2,11 @@
 
 <p align="left">My name is Kuan-Yu Hou, also known as Doreen. I am a student from Taiwan. Currently, I am pursuing my second master's degree in Data & Business Analysis at Rennes School of Business. Besides, I hold an MBA in information management at National Taipei University. I’m specializing in Data Business Analytics, I also have a strong interest in cloud computing.</p>
 
-<img align="right" src="images/octocat-1741528633304.png" width="300">
+
 
 - 🔭 I’m currently studying for [MSc in International Management in Data and Business Analytics](https://www.rennes-sb.com/programmes/postgraduate/discover-masters/master-of-science-in-international-management/)
+
+<img align="right" src="images/octocat-1741528633304.png" width="300">
 
 - 🌱 I’m currently learning **Python and Data Analytic**
 
