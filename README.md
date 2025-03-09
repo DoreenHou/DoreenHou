@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Doreen 👋 </h1>
 
-<p align="left"> My name is Kuan-Yu Hou, also known as Doreen. I am 25 years old and holding an MBA in information management at National Taipei University. Currently, I am pursuing my second master's degree in Data & Business Analysis at Rennes School of Business. I’m specializing in Data Business Analytics, I also have a strong interest in cloud computing.  ![image](https://github.com/user-attachments/assets/d7b6a7b9-a0ed-440d-a551-53a116b203ad)
+<p align="left"> My name is Kuan-Yu Hou, also known as Doreen. I am 25 years old and holding an MBA in information management at National Taipei University. Currently, I am pursuing my second master's degree in Data & Business Analysis at Rennes School of Business. I’m specializing in Data Business Analytics, I also have a strong interest in cloud computing. 
 </p>
 
 - 🔭 I’m currently studying at **[MSc in International Management in Data and Business Analytics](https://www.rennes-sb.com/programmes/postgraduate/discover-masters/master-of-science-in-international-management/)**
