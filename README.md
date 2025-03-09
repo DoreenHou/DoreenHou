@@ -17,6 +17,8 @@
 - 📫 How to reach me ****[kuan-yu.hou@rennes-sb.com](mailto:kuan-yu.hou@rennes-sb.com)****
 
 - 📄 Know about my experiences on my [Linkedin](https://www.linkedin.com/in/hou-kuanyu/)
+  
+- 🤝 Look at my **resume**
 
 - ⚡ Motto **"Better late than never"**
 
