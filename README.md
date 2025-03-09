@@ -57,7 +57,7 @@
 <h3 align="left"> Badges </h3>
 
 <div align="left">
-  <a href="https://www.credly.com/badges/30d3de23-cc61-47e3-8837-f24ac9fc1a8d/public_url"><img src="/images/datadog-fundamental.png" alt="Datadog Fundamentals I" height="200"/></a> 
+  <a href="https://www.credly.com/badges/30d3de23-cc61-47e3-8837-f24ac9fc1a8d/public_url"><img src="images/aws-certified-solutions-architect-associate.png" alt="AWS-SAA" height="200"/></a> 
 
 <h3 align="left"> Certifications </h3>
 
