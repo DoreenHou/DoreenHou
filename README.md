@@ -19,6 +19,7 @@
 
 
 <h3 align="left"> My projects </h3>
+
 - ✈️ **[Aviation: Collaboration project of Data Analytics with Python at RSB](https://github.com/r41ss4/rennes_da)**
 - 🎥 **[Netflix: Collaboration project of Business Analytic with Python at RSB](https://github.com/r41ss4/rennes_ba)**
 - 📝 **[Visa: Collaboration project of SmartContract with Solidity](https://github.com/DoreenHou/SmartContract_passport)**
