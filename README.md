@@ -27,7 +27,7 @@
 - 💄 **[SkinCare: Collaboration project of Image Recognition with openCV at TKU](https://github.com/DoreenHou/SkinCare)**
 - 📰 **[My GitHub pages](https://doreenhou.github.io/Doreen-Website/)**
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
 
 <!--- Connect with me -->
 <h3 align="left">Connect with me:</h3>
