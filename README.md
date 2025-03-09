@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences on my [Linkedin](https://www.linkedin.com/in/hou-kuanyu/)
   
-- 🤝 Look at my **[resume](images/CV-KuanYu, Hou.pdf)**
+- 🤝 Look at my **[resume](images/CV-KuanYu, Hou-1.png)**
 
 - ⚡ Motto **"Better late than never"**
 
