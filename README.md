@@ -8,11 +8,13 @@
 
 <img align="right" src="images/octocat-1741528633304.png" width="300">
 
+- 👨‍💻 My Personal [Website](https://doreenhou.github.io/)
+
 - 🌱 I’m currently learning **Python and Data Analytic**
 
 - 👯 I’m currently collaborating on [Data Science Project](https://github.com/r41ss4/rennes_ds)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/DoreenHou)
+- 📰 All of my projects are available at [GitHub](https://github.com/DoreenHou)
 
 - 📫 How to reach me ****[kuan-yu.hou@rennes-sb.com](mailto:kuan-yu.hou@rennes-sb.com)****
 
@@ -30,7 +32,6 @@
 - 🎥 **[Netflix: Collaboration project of Business Analytic with Python at RSB](https://github.com/r41ss4/rennes_ba)**
 - 📝 **[Visa: Collaboration project of SmartContract with Solidity at NTPU](https://github.com/DoreenHou/SmartContract_passport)**
 - 💄 **[SkinCare: Collaboration project of Image Recognition with openCV at TKU](https://github.com/DoreenHou/SkinCare)**
-- 📰 **[My Personal Website](https://doreenhou.github.io/)**
 
 <!--- <img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400"> -->
 
