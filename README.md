@@ -32,6 +32,7 @@
 - 🎥 **[Netflix: Collaboration project of Business Analytic with Python at RSB](https://github.com/r41ss4/rennes_ba)**
 - 📝 **[Visa: Collaboration project of SmartContract with Solidity at NTPU](https://github.com/DoreenHou/SmartContract_passport)**
 - 💄 **[SkinCare: Collaboration project of Image Recognition with openCV at TKU](https://github.com/DoreenHou/SkinCare)**
+- 💅 **[Sephora: Collaboration project of Data Science with Python at RSB](https://github.com/r41ss4/rennes_ds)**
 
 <!--- <img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400"> -->
 
