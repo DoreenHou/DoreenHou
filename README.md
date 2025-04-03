@@ -18,9 +18,9 @@
 
 - 📫 How to reach me ****[kuan-yu.hou@rennes-sb.com](mailto:kuan-yu.hou@rennes-sb.com)****
 
-- 📄 Know about my experiences on my [Linkedin](https://www.linkedin.com/in/hou-kuanyu/)
+- 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/hou-kuanyu/)
   
-- 🤝 Look at my **[resume](https://github.com/DoreenHou/DoreenHou/blob/main/images/CV-KuanYu%2C%20Hou-1.png)**
+- 🤝 Look at my **[resume]([https://github.com/DoreenHou/DoreenHou/blob/main/images/CV-KuanYu%2C%20Hou-1.png](https://github.com/DoreenHou/DoreenHou/blob/main/images/CV_KuanYu-Hou.pdf))**
 
 - ⚡ Motto **"Better late than never"**
 
