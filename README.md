@@ -10,9 +10,9 @@
 
 - 👨‍💻 My Personal [Website](https://doreenhou.github.io/)
 
-- 🌱 I’m currently learning **Python and Data Analytic**
+- 🌱 I’m currently learning **AI agent and cloud architecture**
 
-- 👯 I’m currently collaborating on [Data Science Project](https://github.com/r41ss4/rennes_ds)
+- 👯 I’m currently collaborating on [Cloud360](https://github.com/opendiamonds/cloud-360)
 
 - 📰 All of my projects are available at [GitHub](https://github.com/DoreenHou)
 
@@ -28,6 +28,7 @@
 <!--- My projects -->
 <h3 align="left"> My projects </h3>
 
+- ☁️ **[Cloud 360: Collaboration project of AI-native multi-cloud architecture and operations platform](https://github.com/opendiamonds/cloud-360)**
 - ✈️ **[Aviation: Collaboration project of Data Analytics with Python at RSB](https://github.com/r41ss4/rennes_da)**
 - 🎥 **[Netflix: Collaboration project of Business Analytic with Python at RSB](https://github.com/r41ss4/rennes_ba)**
 - 📝 **[Visa: Collaboration project of SmartContract with Solidity at NTPU](https://github.com/DoreenHou/SmartContract_passport)**
